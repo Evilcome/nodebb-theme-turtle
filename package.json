@@ -1,0 +1,23 @@
+{
+  "name": "nodebb-theme-turtle",
+  "version": "1.0.0",
+  "description": "A simple theme for game-china.org.",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Evilcome/nodebb-theme-turtle.git"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
+  ],
+  "author": "evilcome.com@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Evilcome/nodebb-theme-turtle/issues"
+  },
+  "homepage": "https://github.com/Evilcome/nodebb-theme-turtle#readme"
+}
